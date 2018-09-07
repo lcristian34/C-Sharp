@@ -1,0 +1,51 @@
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.exe.config
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmAbout.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmMain.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmProductionWorker.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.Properties.Resources.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csproj.GenerateResource.Cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.exe.config
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csprojResolveAssemblyReference.cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmAbout.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmMain.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmProductionWorker.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.Properties.Resources.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csproj.GenerateResource.Cache
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.exe.config
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.exe
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.pdb
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.exe
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.pdb
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csprojResolveAssemblyReference.cache
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmAbout.resources
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmMain.resources
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmProductionWorker.resources
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.Properties.Resources.resources
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csproj.GenerateResource.Cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csprojResolveAssemblyReference.cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmTeamLeader.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmShiftSupervisor.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmShiftSupervisor.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmTeamLeader.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.exe.config
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\bin\Debug\Lara_Lab_10.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csprojResolveAssemblyReference.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmAbout.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmMain.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmProductionWorker.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmShiftSupervisor.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.frmTeamLeader.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.Properties.Resources.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csproj.GenerateResource.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_10\obj\Debug\Lara_Lab_10.pdb

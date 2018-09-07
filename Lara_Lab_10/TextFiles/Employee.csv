@@ -1,0 +1,13 @@
+typeWorker,empNumb,shiftNumb,hrlyPayRt,annualSalary,annualProdBonus,monthlyBonus,ReqTrainHrs,AttndTrainhrs
+Production Worker,Kelli Wall,0123456,1,11.00, , , , , 
+Production Worker,Dina Ferry,0234567,2,11.55, , , , ,
+Production Worker,Kendra Whitten,0345678,2,10.75, , , , ,
+Production Worker,Mina Lindale,0457345,2,11.65, , , , ,
+Shift Supervisor,Jerry Gill,1234567, , ,45555.00,2000.00, , ,
+Shift Supervisor,Kari Millan,2345678, , ,55850.55,3000.00, , ,
+Shift Supervisor,Mary King,3456789, , ,35555.75,500.50, , ,
+Shift Supervisor,Paul Pattison,8765432, , ,56575.55,4555.55, , ,
+Team Leader,Larry Bills,1212121,2,15.55, , ,1000.00,25,10
+Team Leader,Allie Hall,2121212,1,17.65, , ,2350.55,35,22
+Team Leader,Henry Hines,3232323,1,18.55, , ,750.55,15,12
+Team Leader,Carol Fools,4324323,1,16.75, , ,2300.55,25,25

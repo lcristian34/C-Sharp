@@ -1,0 +1,10 @@
+Programmed by Christian Lara on 6/3/2017
+C# Database Dev With Ado.Net (ITSE-2338-1031)
+Inheritance database
+
+
+
+This application will input a file of csv and separe into different types of workers
+the workers will be displayed in diffenrent forms with different textboxes and labels 
+but all of them will have some data in common. The forms will iherit from one another to get the data
+and to write less code.
