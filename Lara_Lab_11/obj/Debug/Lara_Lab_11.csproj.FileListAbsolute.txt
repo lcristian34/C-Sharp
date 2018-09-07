@@ -1,0 +1,45 @@
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.exe.config
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\DbFiles\Books_2010.mdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csprojResolveAssemblyReference.cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.frmMain.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.Properties.Resources.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csproj.GenerateResource.Cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.pdb
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.exe.config
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.exe
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.pdb
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\DbFiles\Books_2010.mdb
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.exe
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.pdb
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csprojResolveAssemblyReference.cache
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.frmMain.resources
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.Properties.Resources.resources
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csproj.GenerateResource.Cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.frmAbout.resources
+G:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.frmAbout.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.exe.config
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\DbFiles\Books_2010.mdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csprojResolveAssemblyReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.frmAbout.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.frmMain.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.Properties.Resources.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csproj.GenerateResource.Cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\DbFiles\Books_2010.mdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.exe.config
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\bin\Debug\Lara_Lab_11.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csprojResolveAssemblyReference.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.frmAbout.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.frmMain.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.Properties.Resources.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csproj.GenerateResource.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.csproj.CoreCompileInputs.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Lab_11\obj\Debug\Lara_Lab_11.pdb
