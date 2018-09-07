@@ -1,0 +1,40 @@
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.exe.config
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.exe.config
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\DbFiles\Bonus_Access.mdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.csprojResolveAssemblyReference.cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.frmMain.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.Properties.Resources.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.csproj.GenerateResource.Cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\DbFiles\Bonus_Access.mdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.csprojResolveAssemblyReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.frmHelp.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.frmMain.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.Properties.Resources.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.csproj.GenerateResource.Cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.frmHelp.resources
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.exe.config
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.exe
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.pdb
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.exe.config
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.exe
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\DbFiles\Bonus_Access.mdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.exe.config
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\bin\Debug\Lara_Bonus.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.frmHelp.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.frmMain.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.Properties.Resources.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.csproj.GenerateResource.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.csproj.CoreCompileInputs.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Bonus\obj\Debug\Lara_Bonus.csprojResolveAssemblyReference.cache
