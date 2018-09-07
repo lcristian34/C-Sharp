@@ -1,0 +1,8 @@
+This application will get data from a csv file, then it will save it into a list, 
+the list will be used to displays the data in textboxes on a different form called records.
+The records form will halso be used to update, delete and add records.
+The Main form will have a menu strip that can acces a help button with info.
+It will halso have a form that allows the user to search by first name and last name.
+At the end of the program the info of the list is saved to the file again. Updating the info.
+The application will have printing capavilities as well as a print prevew. The print preview 
+has a determinated number of records that it can hold per page.
